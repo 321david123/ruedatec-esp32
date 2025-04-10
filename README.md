@@ -95,7 +95,7 @@ A companion Android app allows users to control the wheelchair directly via Blue
 ---
 
 ## 🌐 Live Project Website  
-Visit: [https://ruedatec.com](https://ruedatec.com)
+Visit: [ruedatec.com](https://ruedatec.com)
 
 ---
 ## 🤝 Contact
