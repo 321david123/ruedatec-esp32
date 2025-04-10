@@ -1,8 +1,18 @@
-# 🦽 RuedaTec ESP32 Bluetooth Control System
+# 🦽 **RuedaTec ESP32 Bluetooth Control System**
+---
 
-This repository contains the firmware for the **RuedaTec Smart Wheelchair**, developed to improve mobility and accessibility through low-cost, high-impact technology. It was showcased in **Invention Convention Americas 2023**, earning **2nd place internationally**.
-After the beginning of 2024 we stopped the development, but we got another improved version locally literally in a computer in Mexico that I cant access right now, but this code was relatively updated.
+### **This repository contains the firmware for the RuedaTec Smart Wheelchair, developed to improve mobility and accessibility through low-cost, high-impact technology. It was showcased in Invention Convention Americas 2023, earning 2nd place internationally.**
+
+---
+
+ **After the beginning of 2024 we stopped the development, but we got another improved version locally. However, This version of the code was relatively updated.**
+
+---
+
 The project consists of a Bluetooth-controlled electric wheelchair system, built using two ESP32 microcontrollers, and enhanced with AI-driven statistics for battery health and inclination monitoring.
+
+
+
 
 
 ## 📡 System Overview
