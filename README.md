@@ -64,14 +64,15 @@ This modular design improves flexibility: the chair can be controlled either by 
 |---------|--------------------------------|---------|
 | `F`     | Move forward                   | Both    |
 | `B`     | Move backward                  | Both    |
-| `L`     | Turn left                      | Drive Unit | / turning commands are being worked on since we don't have time anymore for it / computer in Mexico
-| `R`     | Turn right                     | Drive Unit | / turning commands are being worked on since we don't have time anymore for it
+| `L`     | Turn left                      | Drive Unit | 
+| `R`     | Turn right                     | Drive Unit |
 | `S`     | Stop movement                  | Both    |
 | `P`     | Pause / brake                  | Controller |
 | `W/w`   | Enable/disable brake           | Controller |
 | `X/x`   | Engage/disengage extra stop    | Controller |
 | `0–9`   | Set speed (0 = stop, 9 = max)  | Both    |
 
+turning commands are being worked on since we don't have time anymore for it
 ---
 
 ## 💬 Tech Stack
