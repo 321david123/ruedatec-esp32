@@ -28,7 +28,7 @@ The system is divided into two ESP32 boards:
 ### ✅ ESP32 #2 — **Wheelchair Drive Unit**
 - Receives commands from ESP32 #1 via Bluetooth.
 - Controls the **main motors** and brakes,.
-- Supports forward/reverse motion. Turning is in o.
+- Supports forward/reverse motion. Turning is in still in testing.
 
 This modular design improves flexibility: the chair can be controlled either by a physical controller (ESP32 #1) or directly from a smartphone.
 
